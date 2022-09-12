@@ -1,6 +1,6 @@
 # Roundnet_Germany
 
-In this repository we show, why you should sponsor the new trendsport Roundnet. The sport itself was created in 1989, but wasn't secussfull in that time. It was recovered in by Chris Ruder in 2008 (creating of the brand Spikeball Inc - the most famous net producer) and became popular in very short time in North America. 2016 it also cameto Europe and to the rest of the world and is still becoming more and more popular.
+In this repository we show, why you should sponsor the new trendsport Roundnet. The sport itself was created in 1989, but wasn't secussfull in that time. It was recovered by Chris Ruder in 2008 (creating of the brand Spikeball Inc - the most famous net producer) and became popular in very short time in North America. 2016 it also came to Europe and to the rest of the world and is still becoming more and more popular.
 
 But what is so special about Roundnet? The first thing is, that the playerzone in a 360 Degress field. So it's very dynamic. The rules are closely to beach-volleyball and it's easy to play on a fun level for everybody. The second thing is, that you can play it on every surface. You just need a net and a place with some space and you can start playing!
 
